@@ -10,6 +10,12 @@ AtliQ hardware is a company which delivers computer hardware & peripheral Manufa
 
 Sales director of the AtliQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions.
 
+<h3>AIMS Grid</h3>
+
+By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
+
+<img src="https://github.com/priyannkakollekar/POWER-BI-Projects/blob/main/Atliq-Sales-Insights/screenshots/AIMS-grid-sales-insights.jpg" />
+
 <b>Steps Implemented in this project:</b>
 
 1.	Familiarized with AIMS grid for project organization.
